@@ -1,7 +1,7 @@
 # SE-DAY5-Technical-Writing  
 
 ## Introduction  
-Technical writing is about making complicated tech stuff easy to understand. It’s like turning geeky words into normal ones anyone can get. In this assignment, I’ll answer questions about writing for different people, using simple language, and keeping things clear. You asked for at least five examples per question instead of three, so I’ve added more to give you a better idea!  
+Technical writing is about making complicated tech stuff easy to understand. It’s like turning geeky words into normal ones anyone can get. In this assignment, I’ll answer questions about writing for different people, using simple language, and keeping things clear. !  
 
 ---
 
